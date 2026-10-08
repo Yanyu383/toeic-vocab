@@ -1,5 +1,58 @@
 [
   {
+    "id": 1791491197667,
+    "date": "2026-10-08",
+    "word": "兩句子之間的動詞",
+    "note": "可以有不同的動詞型態，但需要看句子本身",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "表達「客觀真理 / 科學事實」",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Our science teacher taught us last week that water boils at 100°C.",
+            "zh": "我們自然老師上週教我們：水在攝氏 100 度沸騰❌ 不用 boiled"
+          },
+          {
+            "en": "Ancient astronomers discovered that the Earth revolves around the Sun.",
+            "zh": "古代天文學家發現地球繞著太陽公轉❌ 不用 revolved"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "表達「目前依然成立的狀態、事實或特質」",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "He told me yesterday that he lives in Taipei.",
+            "zh": "他昨天跟我說他住在台北⭕ 用 lives：代表他現在依然住在台北（事實持續中）"
+          },
+          {
+            "en": "I knew you are a kind person.",
+            "zh": "我以前就知道你是一個善良的人⭕ 用 are：因為你到現在依然是一個善良的人"
+          },
+          {
+            "en": "The manager said that the company has over 500 employees.",
+            "zh": "經理說過公司有超過 500 名員工。⭕ 用 has：代表公司現在依然擁有 500 名以上的員工"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "但不可以的情況是",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "The man threatened to leak classified information to the newspapers after he was unfairly dismissed.",
+            "zh": "在被不公平解僱後，他威脅要將機密資料洩漏給報社。❌不是一個永遠成立的事實或常態：這是一個在過去「點時間」已完成且一次性事件"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1791490526703,
     "date": "2026-10-08",
     "word": "Ved",
