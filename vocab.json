@@ -1,5 +1,51 @@
 [
   {
+    "id": 1791490526703,
+    "date": "2026-10-08",
+    "word": "Ved",
+    "note": "主要子句的主詞是「被執行/被處理」的對象。省略主詞與 be 動詞，只保留 p.p. (過去分詞)",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "省略了主詞 the product 和 be 動詞 was",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Although the product was introduced only last month, it has already sold out",
+            "zh": "雖然上個月才上市，該產品已經售罄。"
+          },
+          {
+            "en": "Although introduced only last month, the product has already sold out.",
+            "zh": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1791490363184,
+    "date": "2026-10-08",
+    "word": "Ving",
+    "note": "當主詞轉變的時候，主要子句的主詞自己「發出/執行」這個動作，省略主詞，動詞改為 V-ing",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "省略了主詞 Mr. Smith，動詞 signed 必須改為 signing",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Before Mr. Smith signed the contract, he read all the clauses carefully.",
+            "zh": "在簽署合約之前，史密斯先生仔細閱讀了所有條款"
+          },
+          {
+            "en": "Before signing the contract, Mr. Smith read all the clauses carefully.",
+            "zh": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1791480639428,
     "date": "2026-10-08",
     "word": "since",
