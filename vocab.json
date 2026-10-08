@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1791480639428,
+    "date": "2026-10-08",
+    "word": "since",
+    "note": "其實都有「自從」的意思，所以後面通常會加 have+v.ed",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Since 2015, the company has expanded its operations into European markets.",
+            "zh": "自 2015 年以來，該公司已將業務擴展至歐洲市場"
+          },
+          {
+            "en": "Since the meeting, our team has been working on the new design.",
+            "zh": "自那次會議以來，我們團隊就一直在製作新設計"
+          }
+        ],
+        "structure": "Since + 過去時間點 / 名詞短語, have/has + p.p"
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Since Ms. Lee joined our company last year, sales have increased by 20%.",
+            "zh": "自從李女士去年加入我們公司以來，銷售額已增長了 20%"
+          },
+          {
+            "en": "He has lived in Taipei since he graduated from college",
+            "zh": "自從大學畢業以來，他一直住在台北"
+          }
+        ],
+        "structure": "Since 過去句子, 主詞 + have+ p.p."
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "meaning": "Since 子句的主詞與主要子句的主詞相同時，可以省略主詞",
+        "examples": [
+          {
+            "en": "Since taking over the project, David has resolved several key problems.",
+            "zh": "自從接手這個專案以來，大衛已經解決了幾個關鍵問題"
+          }
+        ],
+        "structure": "Since + V-ing, 主詞 + have/has + p.p."
+      }
+    ]
+  }
+]
