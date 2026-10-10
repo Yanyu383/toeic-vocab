@@ -1,5 +1,47 @@
 [
   {
+    "id": 1791561094430,
+    "date": "2026-10-09",
+    "word": "Ved vs Ving 形容詞",
+    "note": "最精準的說法是看「它正在修飾 / 補充說明的那個名詞」，要看修飾的到底是「主詞」「受詞」還是「後面的名詞」",
+    "meanings": [
+      {
+        "pos": "adj. (形容詞)",
+        "structure": "Ved",
+        "meaning": "人或動物自身「感受到」該情緒",
+        "examples": [
+          {
+            "en": "We are surprised.",
+            "zh": "我們感到驚訝→主詞是人→ed"
+          },
+          {
+            "en": "The manager found the applicants interested in the new project.",
+            "zh": "經理發現這些求職者對新專案感到很有興趣"
+          }
+        ]
+      },
+      {
+        "pos": "adj. (形容詞)",
+        "structure": "Ving",
+        "meaning": "如果主詞是事情，即便那是讓『人』感到驚訝，也應該選 V-ing",
+        "examples": [
+          {
+            "en": "The movie is surprising (to us).",
+            "zh": "這句話在描述 The movie（事情） 具有「令人驚訝」的特質，所以用 -ing"
+          },
+          {
+            "en": "We found the results of the survey to be very surprising , and different from what we expected.",
+            "zh": "因為主要是在形容the results of the survey"
+          },
+          {
+            "en": "The proposed marketing strategy is interesting to the board members.",
+            "zh": "這項提出的行銷策略對董事會成員來說令人感興趣"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1791491197667,
     "date": "2026-10-08",
     "word": "兩句子之間的動詞",
