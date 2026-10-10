@@ -1,5 +1,62 @@
 [
   {
+    "id": 1791628094253,
+    "date": "2026-10-10",
+    "word": "Material ",
+    "note": "建築材料",
+    "meanings": [
+      {
+        "pos": "n. (名詞)",
+        "structure": "Material costs have increased.",
+        "meaning": "建築材料成本上漲",
+        "examples": [
+          {
+            "en": "",
+            "zh": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1791628035316,
+    "date": "2026-10-10",
+    "word": "building's interior",
+    "note": "建築內部",
+    "meanings": [
+      {
+        "pos": "n. (名詞)",
+        "structure": "A building's interior is being remodeled.",
+        "meaning": "建築內部正在被重塑",
+        "examples": [
+          {
+            "en": "",
+            "zh": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1791627993743,
+    "date": "2026-10-10",
+    "word": "outdoor structure",
+    "note": "戶外建築",
+    "meanings": [
+      {
+        "pos": "n. (名詞)",
+        "structure": " An outdoor structure is being built.",
+        "meaning": "一棟正在興建的戶外建築",
+        "examples": [
+          {
+            "en": "",
+            "zh": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1791561094430,
     "date": "2026-10-09",
     "word": "Ved vs Ving 形容詞",
