@@ -1,5 +1,126 @@
 [
   {
+    "id": 1791829639175,
+    "date": "2026-10-12",
+    "word": "Ved vs. Ving",
+    "note": "分詞轉當形容詞，這跟「是不是人」無關，而是看動詞本身的「主動/正在進行」還是「被動/完成」屬性！",
+    "meanings": [
+      {
+        "pos": "adj. (形容詞)",
+        "structure": "V-ing(主動發出的動作)",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "the rising sun",
+            "zh": "（正在升起的太陽 → 太陽自己升起）"
+          }
+        ]
+      },
+      {
+        "pos": "adj. (形容詞)",
+        "structure": "V-ing(正在持續進行的狀態)",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "an increasing demand",
+            "zh": "（持續增加中的需求）"
+          },
+          {
+            "en": "an increasing number",
+            "zh": "（不斷增加中的數量）"
+          }
+        ]
+      },
+      {
+        "pos": "adj. (形容詞)",
+        "structure": "V-ing(物體本身具備的功能或特質)",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "a leading company",
+            "zh": "（頂尖/領先的公司→在業界領先）"
+          },
+          {
+            "en": "existing customers",
+            "zh": "（現有的客戶 →目前存在著的）"
+          }
+        ]
+      },
+      {
+        "pos": "adj. (形容詞)",
+        "structure": "V-ed(被動承受的動作)",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "a written report",
+            "zh": "被寫出來的報告"
+          },
+          {
+            "en": "the attached file",
+            "zh": "被附上的檔案"
+          },
+          {
+            "en": "income derived from investments",
+            "zh": "被衍生出來的收入"
+          }
+        ]
+      },
+      {
+        "pos": "adj. (形容詞)",
+        "structure": "V-ed(已經完成的狀態)",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "a retired worker",
+            "zh": "已經退休的工作者"
+          },
+          {
+            "en": "finished products",
+            "zh": "已經完成的成品"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1791818739422,
+    "date": "2026-10-12",
+    "word": "複合名詞",
+    "note": "「名詞 ＋ 名詞」",
+    "meanings": [
+      {
+        "pos": "n. (名詞)",
+        "structure": "前面的名詞用來「分類、標示用途或屬性」，後面的名詞才是「真正的核心主體」",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "credit card",
+            "zh": "信用卡→用 credit 來分類這張 card"
+          },
+          {
+            "en": "visa application",
+            "zh": "簽證申請表→用 visa 來標示這份 application"
+          },
+          {
+            "en": "customer complaints",
+            "zh": "顧客客訴→用 customer 來標示 complaints"
+          }
+        ]
+      },
+      {
+        "pos": "n. (名詞)",
+        "structure": "your+intended+ purpose(名詞)",
+        "meaning": "❌your (所有格) + intention (名詞)+purpose (名詞)",
+        "examples": [
+          {
+            "en": "intention 的意思是「意圖 / 打算」，purpose 的意思也是「目的 / 意圖」，兩個意思一模一樣的名詞疊在一起，在英文裡被視為嚴重的語意冗餘",
+            "zh": "→「意圖 (intention)」無法幫「目的 (purpose)」做類別分類，因為兩者是同義概念"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1791815826646,
     "date": "2026-10-12",
     "word": "遇到 before / after / when / while連接句子",
@@ -15,7 +136,7 @@
             "zh": "請幫我一個忙，並確認你已經帶齊所需的一切物品，在出發你去度假之前，"
           },
           {
-            "en": "Please do me a favor and check that you have everything you need before you set off off on your vacation.",
+            "en": "Please do me a favor and check that you have everything you need before you set off on your vacation.",
             "zh": "請幫我一個忙，並確認你已經帶齊所需的一切物品，在出發你去度假之前，"
           },
           {
