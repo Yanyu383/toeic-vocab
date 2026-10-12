@@ -1,5 +1,191 @@
 [
   {
+    "id": 1791841070537,
+    "date": "2026-10-12",
+    "word": "any ",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "each、every後面只能加單數名詞，every two day表頻率",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Buy any two doughnuts and get the second for half price",
+            "zh": "買任兩個甜甜圈，第二個半價"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1791840343123,
+    "date": "2026-10-12",
+    "word": "request",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "request + for + 要求的「事物/內容」",
+        "meaning": "在這裡代表 「目的、追求標的」，後面接「你想要獲得的東西」",
+        "examples": [
+          {
+            "en": "a request for time off",
+            "zh": "休假的申請→目的要是拿到休假"
+          },
+          {
+            "en": "a request for help",
+            "zh": "尋求協助的請求→目的要是獲得幫助"
+          },
+          {
+            "en": "a request for information",
+            "zh": "索取資訊的申請 →目的要是拿到資訊"
+          }
+        ]
+      },
+      {
+        "pos": "v. (動詞)",
+        "structure": "request + of + 提出請求的「對象/人」",
+        "meaning": "of 在這裡代表 「出處、來自於誰」，of 後面必須接「被要求的那個人」或「發出請求的主體」",
+        "examples": [
+          {
+            "en": "I have a request of you.",
+            "zh": "我有一個請求想拜託你"
+          },
+          {
+            "en": "the request of the manager",
+            "zh": "經理所提出的請求"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1791839553580,
+    "date": "2026-10-12",
+    "word": "Including + N",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "包含",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "The package price covers all expenses, including breakfast and flight tickets.",
+            "zh": "套裝行程價格涵蓋所有費用，包含早餐與機票"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1791839457534,
+    "date": "2026-10-12",
+    "word": "Regarding + N",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "= About/Concerning + N（關於……）",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "If you have any questions regarding the new policy, please contact HR.",
+            "zh": "如果您有任何關於新政策的問題，請聯繫人力資源部"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1791839373909,
+    "date": "2026-10-12",
+    "word": "Following + N",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "= After + N（在……之後）",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Following the presentation, attendees are invited to a Q&A session.",
+            "zh": "簡報結束之後，誠摯邀請與會者參加問答環節"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1791831546501,
+    "date": "2026-10-12",
+    "word": "keep",
+    "note": "keep（保持 / 一直……）這個動詞，後面如果要接「動作」，有兩個非常明確且固定的",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "keep + V-ing",
+        "meaning": "表示主詞自己處於某種持續不斷的動作或狀態中",
+        "examples": [
+          {
+            "en": "The dog kept barking",
+            "zh": "那隻狗一直叫"
+          },
+          {
+            "en": "His computer has kept freezing.",
+            "zh": "他的電腦一直當機"
+          }
+        ]
+      },
+      {
+        "pos": "v. (動詞)",
+        "structure": "keep + 受詞 + p.p. (V-ed)",
+        "meaning": "讓某物被……，如果要用到被動 (V-ed)，中間必須有一個受詞！",
+        "examples": [
+          {
+            "en": "Please keep the door locked.",
+            "zh": "請保持門被鎖住"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1791830416836,
+    "date": "2026-10-12",
+    "word": "themselves",
+    "note": "概念上來說就是代表「他們自己」，後面不能加名詞也不是當作形容詞",
+    "meanings": [
+      {
+        "pos": "n. (名詞)",
+        "structure": "當「動詞的受詞」就是「主詞自己」（後面不能再接名詞！）",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "The writers redrafted the stories themselves.",
+            "zh": "作家們自己重新改寫了這些故事"
+          },
+          {
+            "en": "They introduced themselves to the manager.",
+            "zh": "他們向經理自我介紹"
+          }
+        ]
+      },
+      {
+        "pos": "n. (名詞)",
+        "structure": "by + 反身代名詞（靠自己 / 獨自）",
+        "meaning": "by themselves = on their own",
+        "examples": [
+          {
+            "en": "They finished the project by themselves.",
+            "zh": "他們靠自己獨立完成了這個專案"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1791829639175,
     "date": "2026-10-12",
     "word": "Ved vs. Ving",
