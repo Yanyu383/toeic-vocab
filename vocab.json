@@ -1,5 +1,69 @@
 [
   {
+    "id": 1791815826646,
+    "date": "2026-10-12",
+    "word": "遇到 before / after / when / while連接句子",
+    "note": "後面有接名詞+原型動詞，沒有名詞一率改成Ving",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "before + (N)+(V) / (Ving)",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Please do me a favor and check that you have everything you need before setting off on your vacation.",
+            "zh": "請幫我一個忙，並確認你已經帶齊所需的一切物品，在出發你去度假之前，"
+          },
+          {
+            "en": "Please do me a favor and check that you have everything you need before you set off off on your vacation.",
+            "zh": "請幫我一個忙，並確認你已經帶齊所需的一切物品，在出發你去度假之前，"
+          },
+          {
+            "en": "Please do not interrupt Mr. Smith while he is speaking.",
+            "zh": "當他正在說話時，請不要打斷史密斯先生"
+          },
+          {
+            "en": "She double-checked the report before she submitted it.",
+            "zh": "她在提交報告前，重新檢查了一次"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "after + (N)+(V) / (Ving)",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Please lock the door after leaving the office.",
+            "zh": "離開辦公室後請記得鎖門"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "when + (N)+(V) / (Ving)",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "When ordering equipment online, make sure to keep the receipt.",
+            "zh": "在線上訂購設備時，請務必保留收據"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "while + (N)+(V) / (Ving)",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Please remain seated while attending the seminar.",
+            "zh": "參加研討會期間請保持就座"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1791628094253,
     "date": "2026-10-10",
     "word": "Material ",
