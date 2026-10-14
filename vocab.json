@@ -1,5 +1,67 @@
 [
   {
+    "id": 1792013185051,
+    "date": "2026-10-14",
+    "word": "could really use...",
+    "note": "（相當於 really need... 或 would benefit from...）",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "非常需要……、若有……就太好了",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "I could really use a cup of coffee.",
+            "zh": "我現在真的很需要來杯咖啡"
+          },
+          {
+            "en": "I submitted the booking request yesterday, and I could really use a confirmation.",
+            "zh": "我昨天送出了預訂申請，現在非常需要收到一份確認通知"
+          },
+          {
+            "en": "efore we proceed to the next phase, I could really use a confirmation from the manager.",
+            "zh": "在我們進入下一階段之前，我真的很需要經理給我一個明確的確認"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1791997324213,
+    "date": "2026-10-14",
+    "word": "上下文同義詞替換",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "多益中會有的考同益字題目",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "The word \"X\" in paragraph 2, line 3 is closest in meaning to...",
+            "zh": "第二段第 3 行中的單字 \"X\"，其字義與下列何者最接近？"
+          },
+          {
+            "en": "In paragraph 1, the word \"X\" is closest in meaning to which of the following?",
+            "zh": "在第一段中，單字 \"X\" 與下列哪一個選項的意思最接近？"
+          },
+          {
+            "en": "The word \"X\" in paragraph 3 could best be replaced by...",
+            "zh": "第三段中的單字 \"X\"，最適合被下列哪一個詞替換？"
+          },
+          {
+            "en": "In line 5 of the second paragraph, \"X\" is closest in meaning to...",
+            "zh": "在第二段第 5 行中，\"X\" 的意思與何者最接近？"
+          },
+          {
+            "en": "Which word is closest in meaning to \"X\" as used in paragraph 4?",
+            "zh": "下列哪一個單字的意思與第四段中所使用的 \"X\" 最接近？"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1791841070537,
     "date": "2026-10-12",
     "word": "any ",
