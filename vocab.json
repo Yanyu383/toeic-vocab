@@ -1,5 +1,146 @@
 [
   {
+    "id": 1792189896689,
+    "date": "2026-10-16",
+    "word": "turn down",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "拒絕=等於 reject 或 decline",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "turn down a job offer",
+            "zh": "拒絕工作機會"
+          },
+          {
+            "en": "turn down an invitation",
+            "zh": "拒絕邀請"
+          },
+          {
+            "en": "turn down a proposal",
+            "zh": "拒絕企劃/提議"
+          }
+        ]
+      },
+      {
+        "pos": "v. (動詞)",
+        "structure": "調低（音量、溫度、熱度等）",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "turn down the volume",
+            "zh": "把音量調小"
+          },
+          {
+            "en": "turn down the air conditioner",
+            "zh": "把冷氣/暖氣調低"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792187909163,
+    "date": "2026-10-16",
+    "word": "Call ahead",
+    "note": "「提前打電話（聯繫/預約/確認）",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "餐廳 / 店家預約與詢問",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "call ahead for a reservation",
+            "zh": "提前打電話訂位"
+          },
+          {
+            "en": "call ahead to check availability",
+            "zh": "提前打電話確認有沒有空位或現貨"
+          }
+        ]
+      },
+      {
+        "pos": "phr. (片語)",
+        "structure": "商務 / 拜訪前的通知",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Please call ahead before you drop by the office.",
+            "zh": "在您順道前來辦公室之前，請先提前打個電話"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792129087845,
+    "date": "2026-10-16",
+    "word": "make one's way to...",
+    "note": "前往、前往目的地",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "make your way down to...",
+        "meaning": "請親自走一趟前往……",
+        "examples": [
+          {
+            "en": "So make your way down to Big Bob's Burgers and get a taste...",
+            "zh": "所以，不妨親自走一趟 Big Bob's Burgers，品嚐一下……"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792128565139,
+    "date": "2026-10-16",
+    "word": "aside",
+    "note": "在旁邊；放到（或向）一邊",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "set aside time= 撥出時間",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Thank you for setting aside time for this meeting.",
+            "zh": "感謝您百忙之中抽空前來參加會議"
+          },
+          {
+            "en": "Every week I put aside some money for a new TV.",
+            "zh": "我每星期省下一些錢，以後好買台新電視機"
+          },
+          {
+            "en": "Let's leave that matter aside for now and talk about the more urgent problem facing us",
+            "zh": "眼下我們暫且把那件事放在一邊，先來討論我們面臨的更為緊迫的問題"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792087366680,
+    "date": "2026-10-15",
+    "word": "is subject to...",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "視……而定",
+        "meaning": "subject=主題，話題",
+        "examples": [
+          {
+            "en": "This level is always subject to review as economic circumstances change.",
+            "zh": "隨著經濟狀況的改變，這個門檻標準隨時可能會進行重新調整"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1792013185051,
     "date": "2026-10-14",
     "word": "could really use...",
