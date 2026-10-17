@@ -1,5 +1,72 @@
 [
   {
+    "id": 1792195779721,
+    "date": "2026-10-17",
+    "word": "refer to...",
+    "note": "提到、提及",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "多益考法",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "The instruction manual refers to it.",
+            "zh": "說明書提及了這台吸塵器"
+          },
+          {
+            "en": "It  is referred to  in the instruction manual",
+            "zh": "這台吸塵器在操作說明書中有被提及（有寫到）"
+          }
+        ]
+      },
+      {
+        "pos": "v. (動詞)",
+        "structure": "refer to A as B（把 A 當作 B）",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "The company manual refers to safety as its top priority.",
+            "zh": "公司手冊將安全稱為首要任務"
+          }
+        ]
+      },
+      {
+        "pos": "v. (動詞)",
+        "structure": "refer to + N（提到某人/某事）",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "During the meeting, the speaker referred to the new market trends.",
+            "zh": "在會議中，講者提及了最新的市場趨勢"
+          }
+        ]
+      },
+      {
+        "pos": "v. (動詞)",
+        "structure": "A is referred to in B（A 在 B 當中被提及）",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "The discount program is referred to in the promotional email.",
+            "zh": "該折扣方案在宣傳郵件中有被提到"
+          }
+        ]
+      },
+      {
+        "pos": "v. (動詞)",
+        "structure": "refer to + [文件/手冊/圖表]",
+        "meaning": "查閱、參考（Look at / Consult）",
+        "examples": [
+          {
+            "en": "Please refer to page 5 for detailed installation instructions.",
+            "zh": "請參閱第 5 頁以取得詳細安裝說明"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1792189896689,
     "date": "2026-10-16",
     "word": "turn down",
