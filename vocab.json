@@ -1,5 +1,101 @@
 [
   {
+    "id": 1792443789639,
+    "date": "2026-10-19",
+    "word": "come through (for sb.)",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "",
+        "meaning": "（在關鍵時刻或困難時）挺身而出、達到預期期望",
+        "examples": [
+          {
+            "en": "Can we count on her to come through for us?",
+            "zh": "我們可以指望/信任她會在關鍵時刻幫我們度過難關（挺身而出）嗎？"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792443745134,
+    "date": "2026-10-19",
+    "word": "count on sb",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "",
+        "meaning": "倚靠、信任、指望某人",
+        "examples": [
+          {
+            "en": "Can we count on her to come through for us?",
+            "zh": "我們可以指望/信任她會在關鍵時刻幫我們度過難關（挺身而出）嗎？"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792441190925,
+    "date": "2026-10-19",
+    "word": "make of...",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "What do you make of X?",
+        "meaning": "看待、理解、覺得",
+        "examples": [
+          {
+            "en": "What do you make of the new manager's proposal?",
+            "zh": "你怎麼看待新經理的提案？"
+          },
+          {
+            "en": " I honestly don't know what to make of his strange behavior lately.",
+            "zh": "我實在不知道該如何理解他最近的異常行為"
+          },
+          {
+            "en": "What did you make of the movie's confusing ending?",
+            "zh": "你覺得這部電影令人困惑的結局怎麼樣？"
+          },
+          {
+            "en": "He said I was \"interesting.\" Not sure what to make of that ",
+            "zh": "他說我很有趣，不知道該把這話理解為什麼?"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792311134497,
+    "date": "2026-10-18",
+    "word": "be held liable for...",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "對……負有法律責任",
+        "meaning": "be held liable for + N/V-ing",
+        "examples": [
+          {
+            "en": "The manufacturer cannot be held liable for damage...",
+            "zh": "製造商概不對……造成的損壞承擔責任"
+          },
+          {
+            "en": "If we lose the case we may be liable for the costs of the whole trial.",
+            "zh": "如果我們輸掉了這場官司，就可能要承擔官司的全部費用"
+          },
+          {
+            "en": "The law holds parents liable if a child does not attend school.",
+            "zh": "法律規定孩子不上學父母要負責任"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1792195779721,
     "date": "2026-10-17",
     "word": "refer to...",
