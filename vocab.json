@@ -1,5 +1,232 @@
 [
   {
+    "id": 1792532684953,
+    "date": "2026-10-20",
+    "word": "for",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "當介系詞：表示「為了某目的」或「時間長達多久」",
+        "meaning": "絕對不能放在句首，for 後面只能加 Ving 或句子或名詞",
+        "examples": [
+          {
+            "en": "The road was closed for three days.",
+            "zh": "這條路封閉了長達三天"
+          },
+          {
+            "en": "The new software is designed for streamlining company operations.",
+            "zh": "這套新軟體是用於簡化公司營運流程"
+          },
+          {
+            "en": "Thank you for submitting your application before the deadline.",
+            "zh": "感謝您在截止日期前提交申請"
+          },
+          {
+            "en": "This machine is used for printing high-resolution banners.",
+            "zh": "這台機器是用來列印高解析度橫幅的"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "當連接詞：表示「因為...原因」，語氣比 because 更古板正式",
+        "meaning": "絕對不能放在句首，for 後面只能加 Ving 或句子或名詞",
+        "examples": [
+          {
+            "en": "We stayed at home, for it was raining heavily.",
+            "zh": "我們待在家，因為雨下得很大"
+          },
+          {
+            "en": "We apologize for causing any inconvenience to our clients.",
+            "zh": "我們為給客戶造成不便深感抱歉"
+          },
+          {
+            "en": "The employee was rewarded for exceeding his sales targets.",
+            "zh": "該員工因超出銷售目標而獲得獎勵"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "It is + 形容詞 + for + 人/物 + to + 動詞原形",
+        "meaning": "對某人/物來說，做某事是……的",
+        "examples": [
+          {
+            "en": "The course is too difficult for beginners to understand.",
+            "zh": "這門課程太難，以至於初學者無法理解"
+          },
+          {
+            "en": "It is important for employees to follow the safety rules.",
+            "zh": "對員工來說，遵循安全規定是很重要的"
+          },
+          {
+            "en": "It is necessary for us to submit the proposal before Friday.",
+            "zh": "對我們來說，在星期五之前提交提案是必要的"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792532290545,
+    "date": "2026-10-20",
+    "word": "until",
+    "note": "直到……為止",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "可當介系詞 + 時間名詞",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "until 5 PM",
+            "zh": ""
+          },
+          {
+            "en": "until Monday",
+            "zh": ""
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "可當連接詞 + 完整句子 (S + V)",
+        "meaning": "❌until 引導的子句絕對不能用未來式（will），❌ until you will come⭕ until you come",
+        "examples": [
+          {
+            "en": "until we arrived",
+            "zh": ""
+          },
+          {
+            "en": "Please wait in the lobby until the manager is ready.",
+            "zh": "請在大廳等候，直到經理準備好"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792513508798,
+    "date": "2026-10-20",
+    "word": "get a move on",
+    "note": "相當於 Hurry up",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "",
+        "meaning": "快一點！／抓緊時間！／趕緊的！",
+        "examples": [
+          {
+            "en": "Will you get a move on?",
+            "zh": "你能不能快一點啊？"
+          },
+          {
+            "en": "We'd better get a move on or we'll miss the train.",
+            "zh": "我們最好快一點，否則要趕不上火車了"
+          },
+          {
+            "en": "Come on, get a move on! The meeting starts in five minutes.",
+            "zh": "動作抓緊！會議五分鐘後就要開始了"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792512095970,
+    "date": "2026-10-20",
+    "word": "Not until...",
+    "note": "一直到那個時間點到了，事情才會發生",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "",
+        "meaning": "直到……才……",
+        "examples": [
+          {
+            "en": "The report won't be ready not until Friday morning.",
+            "zh": "行銷報告要等到星期五早上才行"
+          },
+          {
+            "en": "Q：When is Mr. Baker coming back to the office?",
+            "zh": "A：Not until next week.（下週才會回來。）"
+          },
+          {
+            "en": "Q：When will the manager review my proposal?",
+            "zh": "A：Not until after the holiday.（要等到假期結束之後才會看。"
+          },
+          {
+            "en": "Not until the manager approved the design did we start production.",
+            "zh": "直到經理核准了設計圖，我們才開始生產(注意：放在句首時，後面要用類似倒裝的語序 did we start)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792510899954,
+    "date": "2026-10-20",
+    "word": "on file",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "",
+        "meaning": "已存檔、有備份、已記錄在案",
+        "examples": [
+          {
+            "en": "We already have your credit card information on file.",
+            "zh": "我們的系統裡已經有您的信用卡資料存檔了"
+          },
+          {
+            "en": "Do you have a copy of my passport on file?",
+            "zh": "你們備份資料裡有我的護照影本嗎？"
+          },
+          {
+            "en": "We don't have any openings right now, but we'll keep your resume on file.",
+            "zh": "我們目前沒有職缺，但我們會把您的履歷存檔保留"
+          },
+          {
+            "en": "Your application will be kept on file for six months.",
+            "zh": "您的申請資料將會在系統中留存紀錄六個月"
+          },
+          {
+            "en": "The doctor needs to check your medical records on file.",
+            "zh": "醫生需要核對一下您在院方紀錄在案的病歷資料"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792508185002,
+    "date": "2026-10-20",
+    "word": "see the point (of something)",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "明白某件事的意義/目的/價值/好處",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "I don't see the point.",
+            "zh": "我看不出這樣做有什麼好處/目的"
+          },
+          {
+            "en": "Why are we changing the meeting time? I don't see the point.",
+            "zh": "我們幹嘛改會議時間？我覺得根本毫無意義"
+          },
+          {
+            "en": "He bought a third car, but I don't see the point.",
+            "zh": "他買了第三台車，但我看不出有什麼必要/意義"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1792443789639,
     "date": "2026-10-19",
     "word": "come through (for sb.)",
