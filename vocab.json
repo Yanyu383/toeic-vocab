@@ -1,5 +1,195 @@
 [
   {
+    "id": 1792612727723,
+    "date": "2026-10-21",
+    "word": "to",
+    "note": "他的用法有兩種，一種是作為介係詞(就是固定片語)，一種是一般接在動詞後面的，而後者一定是指加原型動詞",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "look forward to + V-ing / N",
+        "meaning": "期待……",
+        "examples": [
+          {
+            "en": "",
+            "zh": ""
+          }
+        ]
+      },
+      {
+        "pos": "phr. (片語)",
+        "structure": "be used to / get used to + V-ing / N",
+        "meaning": "習慣於……",
+        "examples": [
+          {
+            "en": "I am used to having him around.",
+            "zh": "我習慣身邊擁有他"
+          }
+        ]
+      },
+      {
+        "pos": "phr. (片語)",
+        "structure": "be committed to + V-ing / N",
+        "meaning": "致力於……（指向某個目標/事業）",
+        "examples": [
+          {
+            "en": "",
+            "zh": ""
+          }
+        ]
+      },
+      {
+        "pos": "phr. (片語)",
+        "structure": "be dedicated to+ V-ing / N",
+        "meaning": "致力於……（指向某個目標/事業）",
+        "examples": [
+          {
+            "en": "Our customer service team is dedicated to solving client issues promptly.",
+            "zh": "我們的客服團隊致力於迅速解決客戶的問題"
+          },
+          {
+            "en": "She is dedicated to her work and always stays late.",
+            "zh": "她一心奉獻於她的工作，而且總是加班"
+          }
+        ]
+      },
+      {
+        "pos": "phr. (片語)",
+        "structure": "object to + V-ing / N",
+        "meaning": "反對……（對著某件事表達反對）",
+        "examples": [
+          {
+            "en": "Several board members objected to postponing the project launch.",
+            "zh": "幾位董事會成員反對延後專案的發布"
+          },
+          {
+            "en": "No one objected to the new company policy.",
+            "zh": "沒有人反對這項新的公司政策"
+          }
+        ]
+      },
+      {
+        "pos": "adv. (副詞)",
+        "structure": "一般的 to+V（表達意圖/目的）",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "need to V",
+            "zh": "需要……"
+          },
+          {
+            "en": "plan to V",
+            "zh": "計劃做……"
+          },
+          {
+            "en": "decide to V",
+            "zh": "決定做……"
+          },
+          {
+            "en": "agree to V",
+            "zh": "同意做……"
+          },
+          {
+            "en": "refuse to V",
+            "zh": "拒絕做……"
+          },
+          {
+            "en": "fail to V",
+            "zh": "未能做……"
+          }
+        ]
+      },
+      {
+        "pos": "adv. (副詞)",
+        "structure": "一般的 to+V（高頻形容詞+to）",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "be eligible to V",
+            "zh": "有資格做……"
+          },
+          {
+            "en": "be likely to V",
+            "zh": "很有可能做……"
+          },
+          {
+            "en": "be pleased / delighted to V",
+            "zh": "很高興做……"
+          },
+          {
+            "en": "be able to V",
+            "zh": "能夠做……"
+          }
+        ]
+      },
+      {
+        "pos": "adv. (副詞)",
+        "structure": "一般的 to+V（高頻名詞+to）",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "ability to V",
+            "zh": "做……的能力"
+          },
+          {
+            "en": "opportunity to V",
+            "zh": "做……的機會"
+          },
+          {
+            "en": "right to V",
+            "zh": "做……的權利"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792608707946,
+    "date": "2026-10-21",
+    "word": "wherever",
+    "note": "表示「地點的無條件限制」，後面接完整的句子，且只能接跟「地點、空間移動」相關的事件，不能用來連接單純的時間或因果關係",
+    "meanings": [
+      {
+        "pos": "n. (名詞)",
+        "structure": "無論在哪裡 / 任何……的地方",
+        "meaning": "後面接什麼：+ 完整句子 (S + V)",
+        "examples": [
+          {
+            "en": "You can sit wherever you like.",
+            "zh": "你可以坐在任何你喜歡的地方"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792608569569,
+    "date": "2026-10-21",
+    "word": "unless",
+    "note": "unless 本身就帶有否定的意思，所以它引導的子句裡面絕對不能再加否定詞",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "除非……否則……",
+        "meaning": "前後的狀況會是相反的，例如說前面是正面後面接負面",
+        "examples": [
+          {
+            "en": "⭕ unless you sign（除非你簽名，否則……）",
+            "zh": "❌ unless you don't sign"
+          },
+          {
+            "en": "We will cancel the event unless the weather improves.",
+            "zh": "我們將取消活動，除非天氣好轉"
+          },
+          {
+            "en": "You will fail the exam unless you study hard.",
+            "zh": "你會不及格，除非你努力讀書"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1792532684953,
     "date": "2026-10-20",
     "word": "for",
