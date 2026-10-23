@@ -1,5 +1,172 @@
 [
   {
+    "id": 1792772582829,
+    "date": "2026-10-23",
+    "word": "If only...",
+    "note": "表示的是一種假設的語態，所以後面接的句子中的動詞一定要退格，變成過去式",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "意思是「要是……該有多好」或「但願……」",
+        "meaning": "=I wish...",
+        "examples": [
+          {
+            "en": "If only I had been listening during the meeting, I wouldn't be having such a hard time preparing my presentation now.",
+            "zh": "要是當時開會我有認真聽的話，我現在準備簡報就不會那麼痛苦了"
+          },
+          {
+            "en": "If only I were not so busy now, I could go to the party with you.",
+            "zh": "要是現在我沒有那麼忙就好了，我就能跟你一起去派對了假設語氣中 be 動詞習慣一律用 were）"
+          },
+          {
+            "en": "If only I spoke fluent English today, I would apply for that international role.",
+            "zh": "要是我今天能講一口流利的英文，我就會去應徵那個跨國職位了"
+          },
+          {
+            "en": "If only our department had more budget at the moment, we could hire more staff.",
+            "zh": "要是我們部門此時此刻有更多預算就好了，我們就能多聘一些員工了"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792768792505,
+    "date": "2026-10-23",
+    "word": "had+p.p",
+    "note": "本身是要表達，過去已經完成了某件事情，重點放在「是否」完成這件事情上，就像按下一個「打勾按鈕」（代表動作已經完成/做過這件事",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "兩件事發生在過去，【先發生的那一件用 had + V-pp】",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "When the manager arrived at the office, the client had already left.",
+            "zh": "當經理到達辦公室時，客戶已經離開了"
+          },
+          {
+            "en": "By the time the product launched, the team had completed all quality testing.",
+            "zh": "到產品上市時，團隊已經完成了所有的品質測試"
+          }
+        ]
+      },
+      {
+        "pos": "v. (動詞)",
+        "structure": "搭配時間關鍵字 【by the time / before / already】",
+        "meaning": "強調到了那個特定時間點「某個動作已經完成」，所以用had+pp",
+        "examples": [
+          {
+            "en": "By 5:00 PM yesterday, the accounting department had processed all the reimbursement requests.",
+            "zh": "截至昨天下午五點為止，會計部已經處理完了所有的報銷申請"
+          }
+        ]
+      },
+      {
+        "pos": "v. (動詞)",
+        "structure": "表達在某個瞬間之前，主詞已經完成了某件事情",
+        "meaning": "主要動詞是 realize（意識到）、notice（注意到）、find out（發現）等「瞬間明白」的動詞時，後面賓語子句敘述「在此之前發生的事」，一定要用 had + V-pp",
+        "examples": [
+          {
+            "en": "The auditor noticed that the assistant had made a major calculation error.",
+            "zh": "審計員注意到助理犯了一個重大計算錯誤"
+          },
+          {
+            "en": "Prior to his promotion, Mr. Wang had managed three international projects.",
+            "zh": "在升職之前，王先生已經管理過三個國際專案（經驗累積）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792768123196,
+    "date": "2026-10-23",
+    "word": "had been V-ing用法",
+    "note": "概念上：是想要表達過去的那段時間持續在做某件已經完成的事情",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "強調「長時間、不間斷的動作過程」（長時間持續感）",
+        "meaning": "會發現句子的後半部分是過去式，而你前面是要強調一件你站在現在時間節點上來看是已經晚成的，但你想要強調過去你一職持續在做的",
+        "examples": [
+          {
+            "en": "I had been working for 10 hours before I took a break.",
+            "zh": "在我休息前，我已经連續工作了 10 個小時→強調這 10 小時內不間斷的辛苦過程"
+          }
+        ]
+      },
+      {
+        "pos": "v. (動詞)",
+        "structure": "句中有特定的「時間長度介系詞」（如 during / for / all day）",
+        "meaning": "當句子中出現特定的時間詞，你想要強調某個動作涵蓋了這段時間",
+        "examples": [
+          {
+            "en": "If only I had been listening during the meeting, I wouldn't be having such a hard time preparing my presentation now.",
+            "zh": "要是當時開會我有認真聽的話，我現在準備簡報就不會那麼痛苦了"
+          },
+          {
+            "en": "She had been editing the final marketing proposal all night, so she was completely exhausted during the morning meeting.",
+            "zh": "她整晚都在修改最終的行銷企劃案，所以早上開會時她精疲力竭"
+          }
+        ]
+      },
+      {
+        "pos": "v. (動詞)",
+        "structure": "動作「才剛停止」，且「現場留有明顯痕跡或影響」",
+        "meaning": "當某個動作剛剛結束，但現場留下證據時，必須用完成進行式",
+        "examples": [
+          {
+            "en": "The ground was wet because it had been raining.",
+            "zh": "地面是濕的，因為剛才一直下著雨→地面濕是下雨留下的痕跡"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792737393618,
+    "date": "2026-10-23",
+    "word": "Given...",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "意思是「考慮到…… / 有鑑於……」",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Given the current levels of unemployment, it might not be a sensible idea to quit your job right now",
+            "zh": "考量到目前的失業率，現在辭職可能不是一個明智的想法"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792736823350,
+    "date": "2026-10-23",
+    "word": "abide by",
+    "note": "遵守",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "同義詞",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "comply with",
+            "zh": "用...填滿(com-完全，ply填滿=履行)=遵守"
+          },
+          {
+            "en": "conform to",
+            "zh": "朝著標準對齊(con-一起，form塑造型態=塑造相同型態)=遵守"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1792730664959,
     "date": "2026-10-23",
     "word": "to",
