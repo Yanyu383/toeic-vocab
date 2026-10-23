@@ -1,5 +1,278 @@
 [
   {
+    "id": 1792730664959,
+    "date": "2026-10-23",
+    "word": "to",
+    "note": "空間感：有一條箭頭→ 指向一個目標或終點",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "介係詞（固定用法）",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "look forward to + V-ing / N",
+            "zh": "期待……"
+          },
+          {
+            "en": "be used to / get used to + V-ing / N",
+            "zh": "習慣於……"
+          },
+          {
+            "en": "I am used to having him around.",
+            "zh": "我習慣身邊擁有他"
+          },
+          {
+            "en": " be committed to + V-ing / N",
+            "zh": "致力於……（指向某個目標/事業）"
+          },
+          {
+            "en": "be dedicated to+ V-ing / N",
+            "zh": "致力於……（指向某個目標/事業）"
+          },
+          {
+            "en": "object to + V-ing / N",
+            "zh": "反對……（對著某件事表達反對）"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "朝向",
+        "meaning": "核心邏輯：「動作要一路延伸並接觸到那個目標/動作」，所以後面接 動詞原形（to + V）",
+        "examples": [
+          {
+            "en": "conform to standards",
+            "zh": "向標準看齊=遵守(con-一起，form塑造型態=塑造相同型態)"
+          },
+          {
+            "en": "adapt to changes",
+            "zh": "向改變適應"
+          },
+          {
+            "en": "I went to the market to buy food.",
+            "zh": "我去超市去買食物→一路延伸到「去買」食物這個動作"
+          },
+          {
+            "en": "He left early to catch the train.",
+            "zh": "他提早離開→一路延伸到去搭火車這件事情"
+          },
+          {
+            "en": "need to V（表達意圖/目的）",
+            "zh": "plan to V"
+          },
+          {
+            "en": "decide to V",
+            "zh": "agree to V"
+          },
+          {
+            "en": "refuse to V",
+            "zh": "fail to V"
+          },
+          {
+            "en": "be eligible to V(有資格做……)（高頻形容詞+to）",
+            "zh": "be likely to V(很有可能做……)"
+          },
+          {
+            "en": "ability to V(做……的能力)（高頻名詞+to）",
+            "zh": "opportunity to V(做……的機會)"
+          },
+          {
+            "en": "right to V(做……的權利)",
+            "zh": ""
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "對....對象做出某種事",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "respond to the email",
+            "zh": "對郵件做出回應"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792730184337,
+    "date": "2026-10-23",
+    "word": "for",
+    "note": "空間感：為了達成某個目標、或是付出交換",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "目的/原因",
+        "meaning": "核心邏輯：「為了某個對象、名詞目標、或是利益對價」（強調的是「這件事是為了誰/什麼東西而存在」），所以通常後面會接的是受詞，通常會視名詞(N)或是Ving",
+        "examples": [
+          {
+            "en": "apply for a job",
+            "zh": "為了工作而申請"
+          },
+          {
+            "en": "apologize for the delay",
+            "zh": "為了延誤道歉"
+          },
+          {
+            "en": "I went to the market for food.",
+            "zh": "我去菜市場為了菜→強調的會是 food 這個名詞"
+          },
+          {
+            "en": "This present is for you.",
+            "zh": "這個禮物是獻給/對應你的→強調的會是你"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "交換/代表",
+        "meaning": "還有一個非常關鍵的衍生含義：交換，當我們用天平把 A 拿下來，把 B 放上去時就是用for",
+        "examples": [
+          {
+            "en": "substitute for Mr. Smith",
+            "zh": "頂替史密斯先生"
+          },
+          {
+            "en": "substitute B for A",
+            "zh": "用 B 來「替換/取代」A"
+          },
+          {
+            "en": "exchange A for B",
+            "zh": "用 A 交換 B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792729777056,
+    "date": "2026-10-23",
+    "word": "by",
+    "note": "空間感：站在旁邊、守在某事物身邊",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "依據/憑藉",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "abide by the rules",
+            "zh": "守在規則旁邊→遵守"
+          },
+          {
+            "en": "judge by appearance",
+            "zh": "憑外表判斷"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "方法/手段",
+        "meaning": "物理畫面：你沒有手握那個東西，而是透過某種「管道、系統、機制或方法」來達成目的。（後面接名詞時通常不加 a / the）",
+        "examples": [
+          {
+            "en": "pay by credit card",
+            "zh": "透過信用卡付款（透過信用卡→是一種「付款機制/管道」）"
+          },
+          {
+            "en": "Travel by train",
+            "zh": "搭乘火車（搭乘火車/公車→是一種「交通方式/管道」）"
+          },
+          {
+            "en": "Contact us by email.",
+            "zh": "透過 Email 聯絡我們（透過 Email 聯絡我們→是一種「通訊管道」）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792729663948,
+    "date": "2026-10-23",
+    "word": "with",
+    "note": "空間感：兩個人或事物黏在一起、伴隨發生",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "用...填滿，使其一致",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "comply with regulations",
+            "zh": "與規定一致→遵守(com-完全，ply填滿=履行)"
+          },
+          {
+            "en": "agree with you",
+            "zh": "與你一致(agree-使...滿意)"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "配備/附帶",
+        "meaning": "物理畫面：你手裡握著/拿著一個具體的東西去完成動作",
+        "examples": [
+          {
+            "en": "equipped with new technology",
+            "zh": "配備有新技術"
+          },
+          {
+            "en": "Write with a pen.",
+            "zh": "用筆寫字→手裡拿著一支實體的筆"
+          },
+          {
+            "en": "Cut the paper with scissors.",
+            "zh": "用剪刀剪紙→手裡拿著剪刀"
+          },
+          {
+            "en": "Pay with cash.",
+            "zh": "用現金付款→手裡拿著紙鈔/硬幣"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792628279139,
+    "date": "2026-10-22",
+    "word": "選 Ving 還是名詞",
+    "note": "注意以下兩點：Suddenly canceling the project surprised all the team members.",
+    "meanings": [
+      {
+        "pos": "n. (名詞)",
+        "structure": "當是名詞的時候",
+        "meaning": "The sudden cancellation of the project surprised all the team members",
+        "examples": [
+          {
+            "en": "前面可以加形容詞",
+            "zh": ""
+          },
+          {
+            "en": "後面可以加 of，作用就是「連結兩件事物」，可以當作「的」也可以當作「關於」的概念",
+            "zh": ""
+          }
+        ]
+      },
+      {
+        "pos": "v. (動詞)",
+        "structure": "當是 Ving 的時候",
+        "meaning": "Suddenly canceling the project surprised all the team members.",
+        "examples": [
+          {
+            "en": "前面不可以加形容詞，只能加 副詞(adv) 來修飾他",
+            "zh": ""
+          },
+          {
+            "en": "通常 Ving 保有動詞的特性，所以後面基本上不會再加 of 的字眼，會直接及物，例如說 canceling the project",
+            "zh": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1792612727723,
     "date": "2026-10-21",
     "word": "to",
