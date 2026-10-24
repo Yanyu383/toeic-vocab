@@ -241,11 +241,27 @@
             "zh": "be likely to V(很有可能做……)"
           },
           {
-            "en": "ability to V(做……的能力)（高頻名詞+to）",
+            "en": "ability to V(做……的能力)（高頻名詞+to+動作）→to後面帶出的東西用來形容前面的名詞",
             "zh": "opportunity to V(做……的機會)"
           },
           {
-            "en": "right to V(做……的權利)",
+            "en": "right to V (做……的權利)",
+            "zh": ""
+          },
+          {
+            "en": "decision to V (指向要做出的決定)",
+            "zh": ""
+          },
+          {
+            "en": "opportunity to V (指向可以去嘗試的事)",
+            "zh": ""
+          },
+          {
+            "en": "attempt to V (指向努力要達成的目標)",
+            "zh": ""
+          },
+          {
+            "en": "plan to V (指向接下來要執行的計畫)",
             "zh": ""
           }
         ]
