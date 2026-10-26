@@ -1,5 +1,292 @@
 [
   {
+    "id": 1793001361222,
+    "date": "2026-10-26",
+    "word": "other家族",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "adj. (形容詞)",
+        "structure": "other=其他的 / 另外的",
+        "meaning": "後面必須接複數名詞(other people / other options)或是不可數名詞(other information)",
+        "examples": [
+          {
+            "en": "Are there any other options available?",
+            "zh": "有其他選項可以選嗎"
+          }
+        ]
+      },
+      {
+        "pos": "adj. (形容詞)",
+        "structure": "another=（adj. / pron.）另一個",
+        "meaning": "後面必須接「可數單數名詞」(another person)",
+        "examples": [
+          {
+            "en": "We need to hire another employee for the marketing team.",
+            "zh": "我們需要為行銷團隊再雇用一位（另一個）員工"
+          },
+          {
+            "en": "He used another person's credit card without permission.",
+            "zh": "他未經許可使用了另一個人的信用卡"
+          }
+        ]
+      },
+      {
+        "pos": "n. (名詞)",
+        "structure": "others=（pron.）其他人 / 其他事物",
+        "meaning": "它本身就是一個「代名詞」，絕對不能在後面再接任何名詞",
+        "examples": [
+          {
+            "en": "Some people like tea, while others prefer coffee.",
+            "zh": "有些人喜歡茶，而其他人則偏好咖啡"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "otherwise=否則；不然",
+        "meaning": "物理畫面是「朝著另一個方向/情況發展」→ 引申為「否則 / 不然」",
+        "examples": [
+          {
+            "en": "Please submit the report by 5 PM; otherwise, you will miss the deadline.",
+            "zh": "請在下午 5 點前提交報告；否則，你將錯過截止日期"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792996774792,
+    "date": "2026-10-26",
+    "word": "along",
+    "note": "「平行順著一條有長度的線條移動」（如河流、道路、牆壁、時間線），也有兩人走到在同一條線上的概念",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "沿著；順著；一起",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "walk along the street",
+            "zh": "沿著道路"
+          },
+          {
+            "en": "bring someone along",
+            "zh": "一起帶走"
+          },
+          {
+            "en": "There are several newly opened cafes along the river.",
+            "zh": "沿著這條河有好幾家新開幕的咖啡廳"
+          },
+          {
+            "en": "Are you coming to the coffee shop? Do you want to come along?",
+            "zh": "我們要去咖啡廳，你要一起來嗎？"
+          },
+          {
+            "en": "She’s going to the trade fair, and I decided to go along.",
+            "zh": "她要去參加展覽，我決定一起去"
+          },
+          {
+            "en": "Do you mind if I tag along to the lunch meeting?",
+            "zh": "你們介意我一起跟去吃午餐會議嗎？"
+          },
+          {
+            "en": "Remember to bring along your passport and board pass for check-in.",
+            "zh": "辦理報到時，記得帶上你的護照和登機證"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792996483404,
+    "date": "2026-10-26",
+    "word": "against",
+    "note": "兩股力量對著幹（對抗），或是身體/物品向外推「頂著牆壁/物體」",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "對抗；靠著；對照/相比於",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "fight against",
+            "zh": "對抗"
+          },
+          {
+            "en": "lean against the wall",
+            "zh": "靠在牆上"
+          },
+          {
+            "en": "compare sales against last year's",
+            "zh": "將銷售額與去年對比"
+          },
+          {
+            "en": "He leaned his bicycle against the wall.",
+            "zh": "他把腳踏車靠在牆邊"
+          },
+          {
+            "en": "The company is taking action against trademark infringement.",
+            "zh": "公司正採取行動對抗商標侵權"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792996332073,
+    "date": "2026-10-26",
+    "word": "aside from",
+    "note": "把某個東西「拉到旁邊放著（side）」，去討論剩下的部分",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "除了……以外",
+        "meaning": "等於 except for",
+        "examples": [
+          {
+            "en": "Aside from a few minor typos, the report is excellent.",
+            "zh": "除了幾個微小的打字錯誤之外，這份報告非常優秀"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792996220536,
+    "date": "2026-10-26",
+    "word": "among",
+    "note": "表示在某個群體/圈子之中（如：青少年、員工、粉絲）；表示在多者之間分配、分享事物；在英文的物理畫面裡，among 的核心就是「一群人围在一起形成的一個圈圈/空間」",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "在……之中；在……群體裡",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "This sneaker brand is the most popular among teenagers.",
+            "zh": "這個運動鞋品牌在青少年之中是最受歡迎的"
+          },
+          {
+            "en": "The bonus will be distributed among all team members.",
+            "zh": "獎金將在所有團隊成員之間發放"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792992969075,
+    "date": "2026-10-26",
+    "word": "主格 vs. 受格",
+    "note": "有：有主格vs受格\n有：有主格vs無變化受格",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "有：有主格vs受格",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "I→me",
+            "zh": ""
+          },
+          {
+            "en": "he→him",
+            "zh": ""
+          },
+          {
+            "en": "she→her",
+            "zh": ""
+          },
+          {
+            "en": "we→us",
+            "zh": ""
+          },
+          {
+            "en": "they→them",
+            "zh": ""
+          },
+          {
+            "en": "who→whom",
+            "zh": ""
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "有：有主格vs無變化受格",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "you無變化→you",
+            "zh": ""
+          },
+          {
+            "en": "it無變化→it",
+            "zh": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1792992401394,
+    "date": "2026-10-26",
+    "word": "介系詞後面",
+    "note": "介系詞（如 about / with / to）的核心功能是「把力量或方向指向某對象」",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "about",
+        "meaning": "只能夠加me或是Ving",
+        "examples": [
+          {
+            "en": "My boss is always complaining about me not completing my tasks fast enough.",
+            "zh": "抱怨關於我「沒有夠快完成任務」這件事"
+          },
+          {
+            "en": "My boss is always complaining that I don't complete my tasks fast enough.",
+            "zh": "抱怨「一件事」：我完成任務的速度不夠快"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "with",
+        "meaning": "只能夠加me或是Ving",
+        "examples": [
+          {
+            "en": "My boss is angry with me.",
+            "zh": "我的老闆在對我發脾氣"
+          },
+          {
+            "en": "My boss is angry with me for not completing my tasks fast enough.",
+            "zh": "老闆因為我沒有夠快完成任務而對我發脾氣"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "to",
+        "meaning": "只能夠加me或是Ving",
+        "examples": [
+          {
+            "en": "She lied to me.",
+            "zh": "她對我撒謊 → me 是接收撒謊動作的目標"
+          },
+          {
+            "en": "He presented the report to us.",
+            "zh": "他向我們簡報報告"
+          },
+          {
+            "en": "She object to me/my joining the project.",
+            "zh": "她反對我加入這個專案 → object to 的 to 是介系詞，後面接 V-ing"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1792772582829,
     "date": "2026-10-23",
     "word": "If only...",
@@ -914,7 +1201,7 @@
     "id": 1792441190925,
     "date": "2026-10-19",
     "word": "make of...",
-    "note": "",
+    "note": "make：不只是用手做東西，也可以指「在腦海中把資訊組合、構建出一個看法或概念」；of：代表「從某個對象身上，抽出資訊或材料」",
     "meanings": [
       {
         "pos": "phr. (片語)",
