@@ -1,5 +1,450 @@
 [
   {
+    "id": 1793655759754,
+    "date": "2026-11-02",
+    "word": "Within",
+    "note": "從「現在/起始點」開始起算，落在設定的時間框框內部，絕對不能超出那個時間上限",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "在……時間之內",
+        "meaning": "within+時間長度(如 minutes / hours / days / a week）",
+        "examples": [
+          {
+            "en": "The restaurant is located within a couple minutes of the park.",
+            "zh": "這家餐廳位於離公園幾分鐘（路法/車程）之內的地點"
+          },
+          {
+            "en": "We will respond to your email within 24 hours.",
+            "zh": "我們會在 24 小時之內回覆您的郵件"
+          },
+          {
+            "en": "Customers may return items within 30 days of purchase.",
+            "zh": "顧客可以在購買後 30 天之內退換貨"
+          },
+          {
+            "en": "The hotel is within walking distance of the train station.",
+            "zh": "家飯店位於火車站的步行距離之內"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793653203539,
+    "date": "2026-11-02",
+    "word": "As",
+    "note": "意思是「正如……」，as本身會有點像是代名詞的概念來概括省略掉的事情，所以後面基本上會接的都是句子，或是句子的一半(沒有受詞)",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "As + S + be + adj",
+        "meaning": "用來引出一個「雙方都知道的事實或背景資訊」",
+        "examples": [
+          {
+            "en": "As you are aware, ...",
+            "zh": "如您所知 / 如您所意識到的……"
+          },
+          {
+            "en": "As you are interested in...",
+            "zh": "正如您所感興趣的……"
+          },
+          {
+            "en": "As we are ready, ...",
+            "zh": "正如我們準備好的一樣……"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "As + S + V (及物動詞)",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "As you know, ...",
+            "zh": "如你所知……"
+          },
+          {
+            "en": "As we discussed, ...",
+            "zh": "正如我們討論過的……"
+          },
+          {
+            "en": "As mentioned above, ...",
+            "zh": "如上所述……"
+          },
+          {
+            "en": "As promised, ...",
+            "zh": "正如承諾的一般……"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793649053371,
+    "date": "2026-11-02",
+    "word": "what",
+    "note": "代名詞，後面接的不會是完整的句子，因為必須他自己兼任「主詞 S」或「受詞 O」所以後面的句子基本上會有東西被取代所以不會完整",
+    "meanings": [
+      {
+        "pos": "n. (名詞)",
+        "structure": "代表「未知的事物或內容」",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Please let me know what you need for the project.",
+            "zh": "請讓我知道你這項專案需要什麼（些什麼東西）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793648897988,
+    "date": "2026-11-02",
+    "word": "however",
+    "note": "後面通常會接一個完整的句子，是作為轉折的副詞，however在句子的結構中是有種把上下兩句切開的概念，他並非打包也並非代名詞而就是單純切開而已",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "然而 / 無論如何",
+        "meaning": "無論情況如何發展，強烈轉折回原點",
+        "examples": [
+          {
+            "en": "The task is challenging; however we are confident we can meet the deadline.",
+            "zh": "項任務極具挑戰性；然而，我們有信心能在截止日期前完成"
+          },
+          {
+            "en": "The sales target was high; however, the team managed to reach it.",
+            "zh": "銷售目標很高；然而，團隊還是成功達成了"
+          },
+          {
+            "en": "We will complete the project on time, however difficult it may be.",
+            "zh": "無論這項專案可能有多麼困難，我們都會按時完成"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793648539895,
+    "date": "2026-11-02",
+    "word": "whether",
+    "note": "後面會接一個完整的句子，概念上來說是把後面的句子打包成一個名詞的概念，但他本身並非是像which跟what這樣的代名詞，它的作用只有打包的概念",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "表示「是否」",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Explore whether the customer actually seeks any action from you",
+            "zh": "探究顧客是否真的需要你採取任何行動"
+          },
+          {
+            "en": "Please check whether the package has been delivered to the customer.",
+            "zh": "請確認包裹是否已經送達給顧客"
+          },
+          {
+            "en": "The board will determine whether we should expand our business to Asia.",
+            "zh": "董事會將會決定我們是否應該將業務擴展至亞洲"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793645593528,
+    "date": "2026-11-02",
+    "word": "Keep on",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "繼續做；堅持進行",
+        "meaning": "後常接 V-ing",
+        "examples": [
+          {
+            "en": "You should keep on practicing if you want to improve your score.",
+            "zh": "如果你想提升分數，你應該繼續練習"
+          },
+          {
+            "en": "Despite the rain, they kept on working outdoors.",
+            "zh": "儘管下著雨，他們依然繼續在室外工作"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793645479758,
+    "date": "2026-11-02",
+    "word": "Jump to",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "貿然做出（結論）",
+        "meaning": "越過中間的調查與過程，直接「跳」到某個地方，常搭配 conclusions",
+        "examples": [
+          {
+            "en": "Do not jump to conclusions until you have all the facts.",
+            "zh": "在掌握所有事實之前，不要貿然下結論"
+          },
+          {
+            "en": "The speaker quickly jumped to the next slide.",
+            "zh": "講者快速地跳到下一張簡報"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793645393454,
+    "date": "2026-11-02",
+    "word": "Attend to",
+    "note": "Attend本身就是參與、出席的意思",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "照顧；關心；招待",
+        "meaning": "及物動詞片語，後直接加受詞",
+        "examples": [
+          {
+            "en": "Please attend to the needs of our VIP clients immediately.",
+            "zh": "請立即處理/照顧我們 VIP 客戶的需求"
+          },
+          {
+            "en": "The nurse carefully attended to the patient's injuries.",
+            "zh": "護理師細心地照顧/處理病患的傷口"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793618388443,
+    "date": "2026-11-02",
+    "word": "Catch on",
+    "note": "catch：抓取 + on：附著上",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "變得流行",
+        "meaning": "思想或趨勢抓住了大眾，引申為風潮流行開來",
+        "examples": [
+          {
+            "en": "The new design trend quickly caught on across Europe.",
+            "zh": "這項新設計趨勢在歐洲迅速流行起來"
+          }
+        ]
+      },
+      {
+        "pos": "v. (動詞)",
+        "structure": "頓悟",
+        "meaning": "大腦「抓住了某個概念」，引申為頓悟、明白",
+        "examples": [
+          {
+            "en": "It took him a while, but he finally caught on to the main concept.",
+            "zh": "他花了一點時間，但最終還是理解了核心概念"
+          },
+          {
+            "en": "He thought he could fool us, but we quickly caught on to his plan.",
+            "zh": "他以為可以愚弄我們，但我們很快就看穿 / 恍然大悟了他的計謀"
+          },
+          {
+            "en": "Computer programming was difficult for her at first, but she is starting to catch on.",
+            "zh": "寫程式一開始對她來說很難，但她現在開始掌握到箇中竅門 / 漸入佳境了"
+          },
+          {
+            "en": "I didn't realize they were arguing until I caught on to the tense atmosphere in the room.",
+            "zh": "我原本沒發現他們在爭吵，直到我察覺/會意到房間裡緊張的氣氛"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793579806586,
+    "date": "2026-11-02",
+    "word": "versus",
+    "note": "vers-：轉動、相對，物理畫面：兩方面對面轉過來相向，互相對抗",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "A對於B",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "The report compares online sales versus in-store sales.",
+            "zh": "該報告比較了線上銷售與實體門市銷售的對比"
+          },
+          {
+            "en": "Tomorrow's game is Newcastle versus Arsenal.",
+            "zh": "明天的比賽是紐卡素隊對阿仙奴隊"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793579666911,
+    "date": "2026-11-02",
+    "word": "via",
+    "note": "拉丁字根 via：道路、途徑、通道",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "經由；透過；借助",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Please submit your application via email.",
+            "zh": "請透過電子郵件提交您的申請表"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793577134576,
+    "date": "2026-11-01",
+    "word": "give away",
+    "note": "把東西「給（give）出去（away）」，不收任何代價",
+    "meanings": [
+      {
+        "pos": "v. (動詞)",
+        "structure": "免費贈送",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "The store is giving away free samples to promote the new product.",
+            "zh": "這家店正在免費贈送試用品以推廣新產品"
+          },
+          {
+            "en": "She decided to give away her old clothes to charity.",
+            "zh": "她決定把舊衣服捐給慈善機構"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793348378190,
+    "date": "2026-10-30",
+    "word": "before句子結構",
+    "note": "核心物理畫面永遠是：「在（某個時間點/事件/動作）之前」",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "before + 子句（S + V）",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "Please turn off the lights before you leave the office.",
+            "zh": "請在你離開辦公室之前關燈"
+          },
+          {
+            "en": "Call me before you submit the report.",
+            "zh": "在你提交報告之前打給我"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "before + 動名詞 (V-ing) ",
+        "meaning": "因為前後的主詞都是同一個人，所以直接省去主詞，把動詞加上 -ing",
+        "examples": [
+          {
+            "en": "Check the document carefully before signing it.",
+            "zh": "在簽名之前，仔細檢查這份文件"
+          },
+          {
+            "en": "He double-checked the data before sending the email.",
+            "zh": "他在寄出郵件之前，再次核對了數據"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "before + 名詞 / 時間點 (N)",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "All employees must punch in before 9:00 a.m.",
+            "zh": "所有員工必須在上午 9:00 之前打卡上班"
+          },
+          {
+            "en": "Please complete the project before the deadline.",
+            "zh": "請在截止日期之前完成該專案"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793347404165,
+    "date": "2026-10-30",
+    "word": "punch in",
+    "note": "←→punch out=clock out(下班打卡)",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "上班打卡=clock in",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "I usually punch in right before 9:00 AM.",
+            "zh": "我通常在快滿九點時打卡上班"
+          },
+          {
+            "en": "Don't forget to punch in when you arrive at the office.",
+            "zh": "到辦公室時別忘了打卡"
+          },
+          {
+            "en": "She forgot to punch in this morning, so she had to talk to HR.",
+            "zh": "她今天早上忘記打卡，所以得去找人資處理"
+          },
+          {
+            "en": "What time do you usually punch out?",
+            "zh": "你平常都幾點打卡下班？"
+          },
+          {
+            "en": "Make sure to punch out before you leave for the day.",
+            "zh": "離開前記得要打卡下班"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793281232229,
+    "date": "2026-10-29",
+    "word": "in favor of",
+    "note": "將整個局勢、砝碼「放在偏向某人的這一邊→支持 / 有利於某人",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "支持 / 有利於某人",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "decide in favor of sb",
+            "zh": "做出有利於某人的裁決/決定"
+          },
+          {
+            "en": "vote in favor of sth",
+            "zh": "投票贊成某事"
+          },
+          {
+            "en": "rule in favor of sb",
+            "zh": "法院判決有利於某人"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1793001361222,
     "date": "2026-10-26",
     "word": "other家族",
