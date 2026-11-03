@@ -1,5 +1,131 @@
 [
   {
+    "id": 1793713629664,
+    "date": "2026-11-03",
+    "word": "by",
+    "note": "核心概念都是從「在……身邊、緊鄰著……」的物理畫面延伸出來的",
+    "meanings": [
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "by+時間點=在……以前",
+        "meaning": "把時間想像成一條有刻度的線，你走到了某個時間點的「身邊/邊緣」,by tomorrow evening 代表你在時間推移的過程中，最晚走到「明天晚上」這個時間節點的「身邊/邊界」時，動作就必須完成了。你只要貼著這個邊界（不跨越過去）都算合格！",
+        "examples": [
+          {
+            "en": "Finish it by 5 p.m.(注意by前面的動詞都會是一次性的，因為就是在某個時間點完成)",
+            "zh": "最晚在下午 5 點以前完成"
+          },
+          {
+            "en": "Please submit the quarterly financial report by Friday.",
+            "zh": "請在週五以前提交季度財務報告"
+          },
+          {
+            "en": "The order will be delivered by 5:00 p.m. tomorrow",
+            "zh": "The order will be delivered by 5:00 p.m. tomorrow"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "by+Ving/名詞/交通工具=藉由、透過",
+        "meaning": "藉由「伸手可及、就在身邊的工具或管道」來完成動作",
+        "examples": [
+          {
+            "en": "You can register for the workshop by filling out this online form.",
+            "zh": "你可以透過填寫這份線上表單來報名工作坊"
+          },
+          {
+            "en": "Please confirm your attendance by email.",
+            "zh": "請透過電子郵件確認您的出席"
+          },
+          {
+            "en": "He usually commutes to the headquarters by train.",
+            "zh": "他通常搭乘火車通勤前往總部"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "S+be+pp+by+執行者=由...做XX事",
+        "meaning": "用來標示「到底是由誰或什麼力量執行了這個動作」，事情發生了，而「站在這件事旁邊、出手完成它的人」就是執行者",
+        "examples": [
+          {
+            "en": "The new marketing strategy was designed by our creative team.",
+            "zh": "這套新的行銷策略是由我們的創意團隊所設計的"
+          },
+          {
+            "en": "The technical issue was resolved by the IT department.",
+            "zh": "這項技術問題已被 IT 部門解決"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "by+地點/名詞=在……旁邊",
+        "meaning": "兩個人或物體並排站在「身邊」，你在我身邊，就是 by my side",
+        "examples": [
+          {
+            "en": "The CEO's office is by the main entrance.",
+            "zh": "執行長的辦公室在大門入口旁邊"
+          },
+          {
+            "en": "She put her briefcase by the desk.",
+            "zh": "她把公事包放在桌子旁"
+          }
+        ]
+      },
+      {
+        "pos": "conj. (連接詞)",
+        "structure": "increase / decrease / grow / drop+by+百分比=增加/減少多少",
+        "meaning": "把新舊兩個數據畫成兩條並排的線，放在「身邊」比對，兩條線放在身邊一比，旁邊多出來的那段差距",
+        "examples": [
+          {
+            "en": "Our total sales grew by 15% this quarter.",
+            "zh": "我們的總銷售額在本季度成長了 15%"
+          },
+          {
+            "en": "The production costs were reduced by $10,000.",
+            "zh": "生產成本降低了 10,000 美元"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1793712098623,
+    "date": "2026-11-03",
+    "word": "be hold up",
+    "note": "",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "耽擱、拖延",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "You're holding up the line",
+            "zh": "(當排隊的時候)你在耽誤時間"
+          },
+          {
+            "en": "Traffic was held up for several hours by the accident.",
+            "zh": "那宗事故造成長達幾個小時的交通阻塞"
+          },
+          {
+            "en": " I'm sorry I'm late; I got held up in heavy traffic.",
+            "zh": "很抱歉我遲到了，我因為嚴重塞車而被耽擱了"
+          },
+          {
+            "en": " What is holding up the project? We need to finish it by Friday.",
+            "zh": "是什麼耽擱了這個專案？我們需要在週五前完成它"
+          },
+          {
+            "en": "Our flight was held up for two hours due to bad weather.",
+            "zh": "我們的航班因為天氣惡劣而被耽擱了兩個小時"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1793655759754,
     "date": "2026-11-02",
     "word": "Within",
