@@ -1,5 +1,124 @@
 [
   {
+    "id": 1793907292452,
+    "date": "2026-11-05",
+    "word": "away",
+    "note": "核心物理畫面：離開店面/原本的位置、朝向遠處延伸",
+    "meanings": [
+      {
+        "pos": "adv. (副詞)",
+        "structure": "不在現場 / 在外出差",
+        "meaning": "當 away 前面加上 be 動詞時，表示人不在原本的工作崗位或家中，處於「外出、休假、出差」的狀態",
+        "examples": [
+          {
+            "en": "I'm away",
+            "zh": "我不在/在外出"
+          },
+          {
+            "en": "I'm away on business",
+            "zh": "我在外出差"
+          },
+          {
+            "en": "I'm away from one's desk / office",
+            "zh": "我不在座位/辦公室"
+          },
+          {
+            "en": "Mr. Tanaka is currently away on business in Tokyo and will return next Monday.",
+            "zh": "田中先生目前在東京出差，將於下週一返回"
+          },
+          {
+            "en": "I am away from my desk at the moment, but I will reply to your email as soon as possible.",
+            "zh": "我目前不在座位上，但我會盡快回覆您的郵件"
+          }
+        ]
+      },
+      {
+        "pos": "adv. (副詞)",
+        "structure": "拿走、移開、寄出",
+        "meaning": "當 away 接在動作動詞後面時，物理畫面是將某物「從原本的位置移到遠處」",
+        "examples": [
+          {
+            "en": "take away",
+            "zh": "拿走、帶走 / 外帶"
+          },
+          {
+            "en": "put away",
+            "zh": "收起來、歸位"
+          },
+          {
+            "en": "send away",
+            "zh": "寄出去、送到外地處理"
+          },
+          {
+            "en": "Please put away the meeting documents before leaving the conference room.",
+            "zh": "離開會議室前，請將會議文件收好歸位"
+          }
+        ]
+      },
+      {
+        "pos": "adv. (副詞)",
+        "structure": "距離……還有多久/多遠",
+        "meaning": "away 可以放在時間或距離名詞後面，用來表達「距離某個時間點或地點還有多久/多遠」",
+        "examples": [
+          {
+            "en": "數字 + 時間單位 + away",
+            "zh": "距離……還有多久"
+          },
+          {
+            "en": "數字 + 距離單位 + away",
+            "zh": "距離……還有多遠"
+          },
+          {
+            "en": "The grand opening of our new flagship store is only two weeks away.",
+            "zh": "我們新旗艦店的盛大開幕距離現在只剩兩週了"
+          },
+          {
+            "en": "The hotel is located just a few steps away from the train station.",
+            "zh": "這家飯店距離火車站僅有幾步之遙"
+          }
+        ]
+      },
+      {
+        "pos": "adv. (副詞)",
+        "structure": "清除、丟棄、消失",
+        "meaning": "在商務情境中，away 常與清潔、處理、丟棄相關的動詞連用，物理畫面是把不要的東西「清理掉、推開」",
+        "examples": [
+          {
+            "en": "throw away / clear away",
+            "zh": "丟棄 / 清理掉"
+          },
+          {
+            "en": "pass away",
+            "zh": "委婉語：去世、過世"
+          },
+          {
+            "en": "fade away",
+            "zh": "逐漸褪色、消逝"
+          }
+        ]
+      },
+      {
+        "pos": "adv. (副詞)",
+        "structure": "立即、不停地",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "right away / straight away",
+            "zh": "立刻、馬上"
+          },
+          {
+            "en": "fire away",
+            "zh": "儘管問吧！開講吧！(像開火一樣把問題拋過來)"
+          },
+          {
+            "en": "If you have any questions about the project, fire away!",
+            "zh": "如果你們對這個專案有任何問題，儘管開口問吧"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1793838928187,
     "date": "2026-11-05",
     "word": "in a matter of minutes",
