@@ -1,5 +1,44 @@
 [
   {
+    "id": 1793838928187,
+    "date": "2026-11-05",
+    "word": "in a matter of minutes",
+    "note": "matter（事情轉化為僅僅的份量 / 算不上什麼大數目的量）+ 數字/時間/距離，是固定用法",
+    "meanings": [
+      {
+        "pos": "phr. (片語)",
+        "structure": "短短幾分鐘內",
+        "meaning": "",
+        "examples": [
+          {
+            "en": "in a matter of seconds",
+            "zh": "在短短數秒之內"
+          },
+          {
+            "en": "in a matter of hours",
+            "zh": "在短短幾小時之內"
+          },
+          {
+            "en": "in a matter of days",
+            "zh": "在短短幾天之內"
+          },
+          {
+            "en": "We can deliver the custom furniture in a matter of days.",
+            "zh": "我們可以在短短幾天之內把客製化傢俱送達"
+          },
+          {
+            "en": "a matter of inches",
+            "zh": "短短幾吋的距離"
+          },
+          {
+            "en": "a matter of dollars",
+            "zh": "區區幾塊錢的金額"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 1793713629664,
     "date": "2026-11-03",
     "word": "by",
